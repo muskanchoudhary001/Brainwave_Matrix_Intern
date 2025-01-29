@@ -3,11 +3,12 @@ import { Check, X, DollarSign, Shield, FileX, Network } from 'lucide-react';
 
 export function WhyUs() {
   const comparisonPoints = [
-    "Point no one",
-    "Point no two this",
-    "Point no two this",
-    "Point no two this",
-    "Point no two this"
+   "Transaction Fees",
+    "Multi-Chain Support",
+    "Gas Fee Optimization",
+    "User Rewards",
+    "Token Compatibility",
+    "Advanced Trading Tools"
   ];
 
   const features = [
